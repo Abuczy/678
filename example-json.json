@@ -1,0 +1,22 @@
+{
+    "AB": {
+        "title": "AB",
+		"ABDiv": {
+            "title": "S",
+			"ABList": {
+                "ABEntry": {
+                    "ID": "SGML",
+					"SortAs": "SGML",
+					"ABTerm": "XD",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"ABDef": {
+                        "para": "AB",
+						"ABSeeAlso": ["GML", "XML"]
+                    },
+					"ABSee": "AB"
+                }
+            }
+        }
+    }
+}
